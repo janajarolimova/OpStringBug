@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpStringBug</string>
+    <string name="change_system_settings">Change system settings</string>
+    <string name="usage_access">Usage access</string>
+</resources>
